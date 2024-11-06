@@ -1,5 +1,3 @@
-¡Claro! Aquí tienes una versión mejorada del README para tu tarea, con un tono más claro y profesional, además de mejorar la estructura y la gramática:
-
 ---
 
 # 🌐 Bienvenido, soy **usertic47827364** 👋
