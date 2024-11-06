@@ -41,4 +41,3 @@ Este proyecto consiste en la creación de una página web centrada en temas de *
 
 ---
 
-Con esta versión, el README tiene una estructura más organizada, un lenguaje más formal y se enfatizan las tecnologías y herramientas utilizadas. También se ha añadido una pequeña introducción para contextualizar el proyecto y se han mejorado las secciones visualmente.
