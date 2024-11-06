@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Deseña a túa páxina web](https://usertic47827364.github.io/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
