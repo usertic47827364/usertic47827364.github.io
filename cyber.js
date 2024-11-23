@@ -7,6 +7,17 @@
             }
         });
 
+        document.querySelectorAll('.video-card, .banner-video-card').forEach(card => {
+            card.addEventListener('mouseenter', () => {
+                card.querySelector('video').play();
+            });
+            card.addEventListener('mouseleave', () => {
+                const video = card.querySelector('video');
+                video.pause();
+                video.currentTime = 0;
+            });
+        });
+
         document.querySelectorAll('.video-card').forEach(card => {
             card.addEventListener('mouseenter', () => {
                 card.querySelector('video').play();
