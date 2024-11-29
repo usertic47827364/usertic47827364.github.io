@@ -197,6 +197,7 @@ grid-column: 1 / -1;
 position: relative;
 overflow: hidden;
 border-radius: 16px;
+cursor: pointer;
 aspect-ratio: 21/9;
 box-shadow: var(--card-shadow);
 transform: translateY(0);
