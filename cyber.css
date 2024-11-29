@@ -173,6 +173,7 @@ gap: 2rem;
 .video-card {
 position: relative;
 overflow: hidden;
+cursor: pointer;
 border-radius: 16px;
 aspect-ratio: 16/9;
 box-shadow: var(--card-shadow);
