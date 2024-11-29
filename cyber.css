@@ -365,6 +365,29 @@ h2 {
     background: rgba(255, 255, 255, 0.03);
 }
 
+.threat-link {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.95rem;
+    transition: all 0.3s ease;
+    position: relative;
+    padding: 0.5rem 0;
+}
+.threat-link::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--gradient);
+    transition: width 0.3s ease;
+}
+.threat-link:hover::after {
+    width: 100%;
+}
+
 footer {
     background-color: var(--bg-secondary);
     padding: 4rem 0;
